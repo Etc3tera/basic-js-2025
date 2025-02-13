@@ -299,7 +299,7 @@ function onCalculate() {
 
 ## GPT Trick
 
-ด้วยปัจจุบันเรามี Chat หาก เราติดปัญหาตรงไหนเราสามารถถามไปตรง ๆ ได้เลยเช่น
+ด้วยปัจจุบันเรามี ChatGPT หาก เราติดปัญหาตรงไหนเราสามารถถามไปตรง ๆ ได้เลยเช่น
 
 ```
 In JavaScript, I want to create two textbox that receive `weight` in kg. and `height` in cm. to store in variables
