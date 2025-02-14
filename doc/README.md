@@ -349,3 +349,15 @@ how can I do?
 </body>
 </html>
 ```
+
+## การต่อยอด
+ - **Developer**: Modern Framework: React/Vue.js/Angular: การประยุกต์ JavaScript มาสร้างเว็บไซต์ด้วยคอนเซปต์ state-driven, MVVM
+ - **Tester**: Testing tools: Selenium, Cypress, Puppeteer: Advanced Element selection, DOM
+
+## Tools / Further Reading
+ - `Jquery`: ตัวช่วยในเรื่อง Element Selection แม้ปัจจุบันอาจจะไม่จำเป็นแล้ว ถ้าใช้ Modern Framework แต่จำเป็นสำหรับคนที่จะทำ Tester เช่น Cypress
+ - `Javascript Fetch API`: การเรียก API ภายนอก เพื่อนำมาใช้ใน Application เช่น การดึงข้อมูลสภาพอากาศ
+ - `Flow control`: while, for
+ - `Data structure`: Array, object
+ - `Array/Object Prototype function`: Array.map() , Array.reduce(), `lodash` library
+ - `TypeScript`: Javascript ที่สามารถระบุ Type ได้
